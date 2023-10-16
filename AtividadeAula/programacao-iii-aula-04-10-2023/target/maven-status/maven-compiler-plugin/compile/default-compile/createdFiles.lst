@@ -1,0 +1,3 @@
+br\edu\umfg\firstapi\FirstapiApplication.class
+br\edu\umfg\entities\Client.class
+br\edu\umfg\firstapi\controllers\ClientController.class
