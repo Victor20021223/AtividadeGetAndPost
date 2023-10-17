@@ -1,0 +1,3 @@
+br\edu\umfg\firstapi\FirstapiApplication.class
+br\edu\umfg\entities\People.class
+br\edu\umfg\firstapi\controllers\PeopleController.class
